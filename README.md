@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on StoryTelling Website
+- 🔭 I’m currently working on Image Gallery Website
 - 🌱 I’m currently learning Mobile Forensics and IoT
 - 👯 I’m looking to collaborate on Cyber security and Cloud projects
 - 🤔 I’m looking for help with Web dev
