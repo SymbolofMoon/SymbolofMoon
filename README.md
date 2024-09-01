@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to System Design and Development :)
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/prateek1027/
 - 😄 Pronouns: Chandra
+- Reach out to me at prateekchandra1027@gmail.com
